@@ -1,0 +1,13 @@
+CREATE TABLE LC_test (
+LC_id INT,
+LC_class VARCHAR(4),
+LC_range INT
+);
+
+INSERT INTO LC_test (LC_id, LC_class, LC_range) VALUES (1,'AC',999);
+INSERT INTO LC_test (LC_id, LC_class, LC_range) VALUES (2,'AE',90);
+INSERT INTO LC_test (LC_id, LC_class, LC_range) VALUES (3,'AG',600);
+INSERT INTO LC_test (LC_id, LC_class, LC_range) VALUES (4,'AM',501);
+INSERT INTO LC_test (LC_id, LC_class, LC_range) VALUES (5,'AS',785);
+INSERT INTO LC_test (LC_id, LC_class, LC_range) VALUES (6,'AY',2001);
+INSERT INTO LC_test (LC_id, LC_class, LC_range) VALUES (7,'AZ',908);
