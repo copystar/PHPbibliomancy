@@ -1,1 +1,2 @@
+# git ignores this file which contains secret variables #
 db-vars.php
